@@ -29,7 +29,8 @@
 <p align="center">
 <a href="https://github.com/anwarhakimz">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwarhakimz&layout=compact&theme=algolia"/>
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anwarhakimz)](https://github.com/anuraghazra/github-readme-stats)
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anwarhakimz&layout=compact&theme=algolia"/>
+
 </a>
 </p>
 
