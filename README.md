@@ -19,6 +19,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-050f2c?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-050f2c?style=flat&logo=bootstrap)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-050f2c?style=flat&logo=Sass)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue-050f2c?style=flat&logo=Vue)&nbsp;
 ![MySql](https://img.shields.io/badge/-MySQL-050f2c?style=flat&logo=mysql&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/java-050f2c?style=flat&logo=openjdk)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-050f2c?style=flat&logo=git)&nbsp;
